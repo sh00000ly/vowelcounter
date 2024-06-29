@@ -21,3 +21,4 @@ function vowelCounter(word) {
 console.log(vowelCounter("imagination"));
 console.log(vowelCounter("omelette"));
 console.log(vowelCounter("egg"));
+console.log(vowelCounter("hippopotamus"));
